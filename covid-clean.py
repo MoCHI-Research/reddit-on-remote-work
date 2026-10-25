@@ -1,5 +1,5 @@
 # Usage: covid-clean <file_path>
-# Author(s): Anonymized for Review
+# Author(s): Seth Moore (slmoore@hamilton.edu)
 # Brief: This script will seperate the contents of a CSV file into 3 different files based on the COVID-19 timeline.
 # The cutoffs being
 # 2016 -> 2020

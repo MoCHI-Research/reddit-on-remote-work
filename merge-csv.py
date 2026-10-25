@@ -1,5 +1,5 @@
 # Usage: merge-csv <file_paths> <file>
-# Author(s): Anonymized for Review
+# Author(s): Seth Moore (slmoore@hamilton.edu)
 # Brief: Script for merging multiple csv files
 
 import csv
